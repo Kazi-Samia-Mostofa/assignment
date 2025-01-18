@@ -319,3 +319,21 @@ border-radius: 16px;
     display: flex;
     justify-content: none;
 }
+
+.subcribe-box{
+    background-color: rgb(198, 228, 214);
+    border-radius: 24px;
+    width:1280px;
+    height:325px;
+    align-items: center;
+    padding:80px 100px 80px 100px ;
+    font-size: 30px;
+    font-weight: normal;
+
+}
+
+.footer{
+   width: 1600px;
+   height: 226px;
+   text-align: center;
+}
