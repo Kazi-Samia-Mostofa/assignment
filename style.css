@@ -99,3 +99,223 @@
     margin: 0px 100px;
     background-color: aquamarine;
     border-radius: 25px;
+
+}
+.btn-primary{
+  color: aliceblue;
+  font-size: medium;
+}
+
+.section-tittle{
+font-size: 24px;
+font-weight: 800;
+color: rgba(18, 17, 17, 0.5);
+
+}
+.sectiom-description{
+
+}
+.text-center{
+    text-align: center
+}
+
+/* header */
+
+/* main-styles */
+.main{
+    max-width: 1280px;
+    margin:o auto ;
+}
+main section{
+    margin-top: 80px;
+    margin-bottom: 120px;
+}
+
+/* about-style */
+.card{
+    size: top-lefgt;
+}
+.about-bd{
+    padding: 80px ;
+    box-shadow: 2px blanchedalmond;
+    background-image: url();
+    
+}
+.item-tittle{
+   font-weight: 600; 
+}
+.about-itmes{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+/* skills-section styles */
+.skils-container{
+    display: flex;
+    justify-content: space-around;
+    gap:14px ;
+}
+.skill{
+  margin: 0px 24px;
+padding:30px ;
+border-radius: 16px;
+}
+.box-color1{
+  background-color:rgba(84, 144, 245, 0.2) ;
+}
+.box-color2{
+    background-color:rgb(198, 228, 214) ;
+}
+.box-color3{
+    background-color: rgb(223, 218, 206);
+}
+.skill-description{
+  color:rgba(14, 14, 14, 0.7)
+}
+
+.dr-yunns{
+    background-color:rgb(255, 255, 255);
+    width: 1280;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 5px;
+
+}
+
+.imgsat{
+    border-radius: 24px;
+}
+
+.news1{
+    position:fixed;
+}
+
+.n{
+    display:flex;
+    gap:30px;
+}
+
+.date{
+    gap:12px;
+    font-weight:normal;
+    color:rgb(14,14,14,.7)  
+}
+
+.newsp{
+    color:rgb(14,14,14,.7);
+    font-weight: normal;
+}
+
+.newsbtn{
+    height: 50px;
+    width: 150px;
+    
+    color:rgb(48, 60, 70);
+    background-color: #aeb3b1;
+    border-radius: 5px;
+    font-weight:bold;
+}
+
+.newsbtn:hover{
+    background-color: #006A50;
+}
+
+.newsright {
+
+}
+
+.imgsat2{
+    border-radius: 24px;
+}
+
+.news2{
+    display:flex;
+    gap: 25px;
+}
+
+.donate{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pdonate{
+    font-size: 15px;
+    font-weight: normal;
+    color:rgba(14, 14, 14, 0.7)
+}
+
+.tk1{
+    height:50px;
+    width: 150px;
+    background-color: #f3f7f6;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.tk2{
+    height:50px;
+    width: 150px;
+    background-color: #f3f7f6;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.tk5{
+    height:50px;
+    width: 150px;
+    background-color: #f3f7f6;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.tk10{
+    height:50px;
+    width: 150px;
+    background-color: #f3f7f6;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+ 
+.tk10:hover{
+    background: #006A50;
+}
+
+.tk5:hover{
+    background: #006A50;
+}
+.tk2:hover{
+    background: #006A50;
+}
+.tk1:hover{
+    background: #006A50;
+}
+
+.inputtk{
+    text-align: center;
+    font-size: small;
+    height: 50px;
+    width: 700px;
+}
+
+.btntk{
+    background-color: #e1edea;
+    color: rgb(40, 42, 44);
+    height:50px;
+    width: 150px;
+    font-size: 15px;
+    font-weight: bold;
+    left:left;
+    border-radius: 5px;
+
+}
+
+.btntk:hover{
+    background-color: #006A50;
+}
+
+.subcribe{
+    display: flex;
+    justify-content: none;
+}
