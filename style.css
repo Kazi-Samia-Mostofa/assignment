@@ -47,3 +47,55 @@
       display: flex;
       align-items: center;
   }
+
+  nav li{
+    text-decoration: none;
+    font-size: 18;
+
+}
+.sign-color{
+ color:#006A50;
+ border-bottom: 5px;
+ background-color: aliceblue;
+ border-color: #006A50;
+ padding:5px 5px ;
+ 
+
+}
+.s{
+  color:#006A50;
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+  font-variation-settings: "width" 100;
+
+
+}
+
+/* banner-style */
+
+.benner-greeting{
+    font-size: 40px;
+    font-weight: 800px;
+}
+.benner-tittle {
+  font-size: 24px;
+  font-weight:400px;
+  color: rgba(14, 14, 14, 0.5) ;
+}
+.banner-profile-pic{
+    width: 412.03px;
+    height: 300px;
+    right:50%;
+}
+.banner-content{
+ width: 622px;
+}
+.banner{
+    display:flex;
+    height:400px;
+    justify-content: space-evenly;
+    margin: 0px 100px;
+    background-color: aquamarine;
+    border-radius: 25px;
