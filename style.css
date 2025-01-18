@@ -1,0 +1,49 @@
+.work-sans-normal {
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+  
+    font-style: normal;
+    font-variation-settings: "width" 100;
+  }
+  
+  /* header/ */
+  .header{
+      background-image:url('quote-bg.png');
+      background-repeat: no-repeat;
+      size: 5px;
+  }
+  
+  /* nav styles */
+  
+  .secondary-bg{
+  
+  }
+  .btn-primary{
+      background-color: #80b1a5;
+      font-size: 20px;
+      padding: 10px 15px;
+      border-radius: 8px;
+  }
+  .btn-primary:hover{
+      background-color: #006A50;
+  }
+  
+  nav{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 24px 160px;
+  
+  }
+  .nav-title{
+      font-weight: 800;
+      font-size: 45px;
+  }
+  nav ul li{
+      list-style: none;
+  
+  }
+  nav ul{
+      display: flex;
+      align-items: center;
+  }
